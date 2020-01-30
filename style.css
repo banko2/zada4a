@@ -2,8 +2,8 @@ body {
     background-color: powderblue;
   }
   h1 {
-    color: blue;
+    color: rgb(123, 255, 0);
   }
   p {
-    color: red;
+    color: rgb(226, 211, 211);
   }
