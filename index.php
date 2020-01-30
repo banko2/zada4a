@@ -9,6 +9,11 @@
 </head>
 <body>
     <h1>Woman galery</h1>
+    <a class="button" href="/zada4a/images/ital1.jpg">Choise ital.</a>
+    <a class="button" href="/zada4a/images/bulg.jpg">Choise bulg.</a>
+    <a class="button" href="/zada4a/images/usa.jpg">Choise usa.</a>
+
     <img src="/zada4a/images/ital1.jpg" alt="Italian girl">
+   
 </body>
 </html>
