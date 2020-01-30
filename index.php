@@ -18,11 +18,11 @@
 <body>
     <div class ="content">
     <h1>Woman galery</h1>
-    <img src="/zada4a/images/Wgalery.jpg" alt="Italian girl">
+    <img src="/zada4a/images/Wgalery.jpg" alt="Italian girl"><br>
 
-    <a class="button" href="/zada4a/images/ital1.jpg">Choise ital.</a>
-    <a class="button" href="/zada4a/images/bulg.jpg">Choise bulg.</a>
-    <a class="button" href="/zada4a/images/usa.jpg">Choise usa.</a>
+    <a class="button" href="/zada4a/images/ital1.jpg">Choise ital.</a><br>
+    <a class="button" href="/zada4a/images/bulg.jpg">Choise bulg.</a><br>
+    <a class="button" href="/zada4a/images/usa.jpg">Choise usa.</a><br>
 
     <ul class="woman-list">
             <?php

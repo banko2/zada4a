@@ -1,14 +1,17 @@
 body {
     background-color: powderblue;
   }
+  .content {
+    width: 880px;
+    margin: auto;
+    text-align: center;
+}
   h1 {
     color: rgb(255, 0, 0);
   }
-  a {
-    color: rgb(226, 211, 211);
-  }
+  
   .button {
-    color: rgb(235, 135, 165);
+    color: rgba(243, 24, 24, 0.986);
     text-decoration: none;
     font-size: 32px;
 }
